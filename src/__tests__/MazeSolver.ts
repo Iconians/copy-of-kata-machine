@@ -1,4 +1,5 @@
 import maze_solver from "@code/MazeSolver";
+import { Point } from "../global";
 
 test("maze solver", function () {
     const maze = [
